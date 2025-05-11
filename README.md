@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyanshhhh83
-- 👀 I’m interested in puthon
+- 👀 I’m interested in python
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on linkdin
 - 📫 How to reach me :- 8302053871
